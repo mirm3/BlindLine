@@ -1,0 +1,20 @@
+build/reports/
+build/reports/problems
+.idea/misc.xml
+/BlindLine/package-lock.json
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Gradle
+.gradle/
+build/
+local.properties
+
+# OS
+.DS_Store
+Thumbs.db
+/BlindLine/node_modules
+node_modules
